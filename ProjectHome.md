@@ -1,0 +1,1 @@
+Haxe port of [Antigrain Geometry](http://www.antigrain.com) library.
